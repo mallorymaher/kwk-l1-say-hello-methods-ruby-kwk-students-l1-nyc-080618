@@ -3,3 +3,7 @@ def say_hello(your_name)
   puts "Hello #{your_name}!"
 end
 say_hello("Mallory")
+
+def say_hello
+  puts "Hello Ruby Programmer!"
+end
